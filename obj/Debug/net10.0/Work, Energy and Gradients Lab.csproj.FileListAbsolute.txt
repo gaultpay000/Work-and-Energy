@@ -12,3 +12,18 @@ C:\Users\pgaultne\source\repos\Work, Energy and Gradients Lab\Work, Energy and G
 C:\Users\pgaultne\source\repos\Work, Energy and Gradients Lab\Work, Energy and Gradients Lab\obj\Debug\net10.0\Work, Energy and Gradients Lab.pdb
 C:\Users\pgaultne\source\repos\Work, Energy and Gradients Lab\Work, Energy and Gradients Lab\obj\Debug\net10.0\Work, Energy and Gradients Lab.genruntimeconfig.cache
 C:\Users\pgaultne\source\repos\Work, Energy and Gradients Lab\Work, Energy and Gradients Lab\obj\Debug\net10.0\ref\Work, Energy and Gradients Lab.dll
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.AssemblyInfoInputs.cache
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.AssemblyInfo.cs
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.csproj.CoreCompileInputs.cache
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.sourcelink.json
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.dll
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\refint\Work, Energy and Gradients Lab.dll
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.pdb
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\bin\Debug\net10.0\Work, Energy and Gradients Lab.exe
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\bin\Debug\net10.0\Work, Energy and Gradients Lab.deps.json
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\bin\Debug\net10.0\Work, Energy and Gradients Lab.runtimeconfig.json
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\bin\Debug\net10.0\Work, Energy and Gradients Lab.dll
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\bin\Debug\net10.0\Work, Energy and Gradients Lab.pdb
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\Work, Energy and Gradients Lab.genruntimeconfig.cache
+C:\Users\pgaup\Desktop\Github\Work-and-Energy\obj\Debug\net10.0\ref\Work, Energy and Gradients Lab.dll

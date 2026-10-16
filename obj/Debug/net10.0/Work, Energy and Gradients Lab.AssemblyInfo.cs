@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Work, Energy and Gradients Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d0b378534239890c67cb0efb998195ee5d5aa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Work, Energy and Gradients Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Work, Energy and Gradients Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -137,7 +137,7 @@ namespace Vector3D_class
             Vector3D difference = new Vector3D();
 
             difference.SetRectGivenRect(first.getX() - second.getX(),
-                first.getY() + second.getY(), first.getZ() + second.getZ());
+                first.getY() - second.getY(), first.getZ() - second.getZ());
             return difference;
         }
 
@@ -157,6 +157,15 @@ namespace Vector3D_class
             quantity.SetRectGivenRect(vec.getX() * scalar,
                 vec.getY() * scalar, vec.getZ() * scalar);
             return quantity;
+        }
+
+        public static Vector3D operator /(Vector3D vec, float scalar)
+        {
+            Vector3D quotient = new Vector3D();
+
+            quotient.SetRectGivenRect(vec.getX() / scalar,
+                vec.getY() / scalar, vec.getZ() / scalar);
+            return quotient;
         }
 
         public static Vector3D operator ~(Vector3D vec) 
